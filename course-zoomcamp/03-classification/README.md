@@ -28,4 +28,6 @@ Did you take notes? You can share them here (or in each unit separately)
 * [Default of Credit Card Clients (Additional Project) from Nikhil Shrestha](https://www.kaggle.com/snikhil17/default-of-credit-card-clients-logistic-regression)
 * [Notes from Alvaro Navas](https://github.com/ziritrion/ml-zoomcamp/blob/main/notes/03_classification.md)
 * [Notes from froukje](https://github.com/froukje/ml-zoomcamp/blob/main/week3/Lecture_3_churn_prediction.ipynb)
+* [Notes from Hareesh Tummala](https://github.com/tummala-hareesh/ml_zoomcamp_ht/blob/main/notes/week-3-notes.md)
+* [Notes from Giorgos Verikios](https://github.com/g-verikios/ml_zoomcamp/blob/d412072625964385023d7100cad342ef2742659d/Classification-Churn.ipynb)
 * Add your notes here
